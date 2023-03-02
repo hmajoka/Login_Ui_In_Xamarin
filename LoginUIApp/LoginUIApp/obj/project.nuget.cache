@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fr0Zlj33HJIdNhTAY0ZCf+ZMFc+xeG46sYbqNGX8ug99VYHhMfGv7s2heyRDl/RRA0bBljTlRja2QuUi5VERRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Haseeb Majoka\\source\\repos\\LoginUIApp\\LoginUIApp\\LoginUIApp\\LoginUIApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haseeb Majoka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Haseeb Majoka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Haseeb Majoka\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Haseeb Majoka\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Haseeb Majoka\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
