@@ -12,6 +12,7 @@ namespace LoginUIApp.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Design2 : ContentPage
     {
+        int a = 0;
         public Design2()
         {
             InitializeComponent();
